@@ -1,7 +1,7 @@
 #!/bin/bash
-# SayCheese v1.2
-# Coded by: @linux_choice (twitter)
-# Github: https://github.com/thelinuxchoice/saycheese
+# HappyCam v1.0
+# Codex By: @JoeTech_Studio (twitter)
+# GitHub: https://github.com/JoeTech-Studio/HappyCam
 
 trap 'printf "\n";stop' 2
 
