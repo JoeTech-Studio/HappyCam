@@ -14,7 +14,7 @@ $ apt install git
 
 $ cd HappyCam
 
-$ bash HappyCam.sh
+$ bash happycam.sh
 ```
 
 ############## REDES SOCIALES ##############
