@@ -4,7 +4,10 @@ Por favor usarlo cuidadosamente no me hago responsable por ningun mal u hecho co
 
 POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
+![](https://i.imgur.com/6NCswSy.jpg)
+
 ### Comandos Para Su Ejecucion:
+
 ```
 $ apt update && apt upgrade
 
