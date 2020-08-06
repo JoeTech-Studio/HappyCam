@@ -6,7 +6,7 @@ POR QUE EL CONOCIMIENTO DEBE SER LIBRE
 
 ![](https://i.imgur.com/6NCswSy.jpg)
 
-### Comandos Para Su Ejecucion:
+# Comandos Para Su Ejecucion:
 
 ```
 $ apt update && apt upgrade
@@ -20,7 +20,7 @@ $ cd HappyCam
 $ bash happycam.sh
 ```
 
-############## REDES SOCIALES ##############
+# REDES SOCIALES
 
 # Suscríbete a este canal así crecemos más:
 http://www.youtube.com/c/JoeTechStudio
