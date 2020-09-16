@@ -15,6 +15,8 @@ $ apt install php
 
 $ apt install git
 
+$ git clone https://github.com/JoeTech-Studio/HappyCam.git
+
 $ cd HappyCam
 
 $ bash happycam.sh
